@@ -34,6 +34,22 @@ header.primary a {
   color: blueviolet;
   text-decoration: none;
 }
-header.primary h1{
-  font-size: 2rem;
+header.primary h1 {
+  font-size:2.6rem;
+  margin: 0;
+}
+header.primary p.subtitle {
+  font-size: 1.3rem;
+  font-weight: bold;
+  /*1top|1r|bottom*/
+  margin: 10px 0 20px;
+
+}
+nav.primary ul{background-color: lightgray;}
+nav.primary ul li {
+}
+nav.primary ul li a {
+  text-decoration: none;
+  color: purple;
+  padding: 0;
 }
