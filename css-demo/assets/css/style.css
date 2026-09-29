@@ -24,7 +24,7 @@ html {
 body {
   font-family: "Courgette", cursive;
 }
-header.primary{
+header.primary{ font-family: "Courgette", cursive;
   background-color: blue;
   color: red;
   text-align:center;
