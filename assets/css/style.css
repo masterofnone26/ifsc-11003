@@ -1,3 +1,8 @@
 body {
-  background-color: aqua;
+  background-color: teal;
+}
+.marcellus-regular {
+  font-family: "Marcellus", serif;
+  font-weight: 400;
+  font-style: normal;
 }

@@ -21,3 +21,19 @@ html {
   white-space: nowrap;
   width: 1px;
 }
+body {
+  font-family: "Courgette", cursive;
+}
+header.primary{
+  background-color: blue;
+  color: red;
+  text-align:center;
+  text-shadow: 1px 1px 2px white;
+}
+header.primary a {
+  color: blueviolet;
+  text-decoration: none;
+}
+header.primary h1{
+  font-size: 2rem;
+}
