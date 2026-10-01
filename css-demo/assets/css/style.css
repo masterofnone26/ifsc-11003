@@ -29,6 +29,16 @@ header.primary{ font-family: "Courgette", cursive;
   color: red;
   text-align:center;
   text-shadow: 1px 1px 2px white;
+  padding: 40px;
+  /*longform*/
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  /*Top|Right|Bottom|Left*/
+  padding: 40px 40px 40px 40px;
+  /*T/B|L/R*/
+  padding: 20px 40px;
 }
 header.primary a {
   color: blueviolet;
