@@ -79,13 +79,40 @@ nav.primary ul li a {
 }
 nav.primary ul li:hover{
   background-color: gold;
+}
+ 
+ #content h2 {
+  color:aqua
+text-decoration underline 
+border: bottom 1px; dotted #000;
+}
+
+#content p{
+  line-height:1.6;
+}
+
+#blog{
+  display:flex;#blog .post
+  box-shadow: 0 4px 8px rgba(0,0,0,.6);
+  padding: 10px;
+  font-size:.8rem;
+flex-direction:row;{
+  justify-content:space-between;
+
 
 }
+
+#blog figure{
+  background:red;}
+
+
+
+
 /* --------- Media Queries ----------- */
-@media screen and (max-width:500px) {
-  nav.primary ul{
+@media screen and (max-width:500px)
+  
+nav.primary ul{
     background-color: blue;
     display:flex;
     gap:10px;
   }
-} 
