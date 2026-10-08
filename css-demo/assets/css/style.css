@@ -43,7 +43,7 @@ header.primary a {
   text-decoration: none;
 }
 header.primary h1 {
-  font-size:2.6rem;
+  font-size:2.6rem;8
   margin: 0;
 }
 header.primary p.subtitle {
@@ -84,27 +84,51 @@ nav.primary ul li:hover{
  #content h2 {
   color:aqua
 text-decoration underline 
-border: bottom 1px; dotted #000;
+border:bottom 1px; dotted #000;
 }
 
 #content p{
   line-height:1.6;
 }
 
-#blog{
-  display:flex;#blog .post
+#blog a{
+  display:flex;#blog .post8
   box-shadow: 0 4px 8px rgba(0,0,0,.6);
   padding: 10px;
   font-size:.8rem;
-flex-direction:row;{
-  justify-content:space-between;
-
-
-}
+flex-direction:row
+  justify-content:space-between;}
 
 #blog figure{
   background:red;}
 
+  aside[aria-label="Sidebar"]{
+  background-color: #172635;
+  color:#ffffff;
+  padding: 20px 0;
+}
+
+aside div.container
+
+aside div.container a{
+  color:#ffffff;
+  display:block;
+  margin-top:10px;
+  text-align:right;
+
+}
+
+aside .widget footer{
+  display:none;
+}
+
+footer.primary{
+background-color: #3b638b;
+padding:5px;
+color:#ffffff;
+text-align:center;
+text-shadow:1px 1px #000000; 
+}
 
 
 
