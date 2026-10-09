@@ -59,13 +59,13 @@ img{
 
 /* ---------------Global styles----------------- */
 body {
- font-family: "Lato", sans-serif;
+ font-family: "marcellus";
   margin: 0;
 }
 
 header.primary {
-  background-color: #3b6b8b;
-  color: #ffffff;
+  background-color:#6d0815;
+  color: lavender
   text-align: center;
   text-shadow: 1px 1px #000000;
   padding: 40px;
@@ -81,7 +81,7 @@ header.primary {
 }
 
 header.primary a {
-  color: #ffffff;
+  color: green
   text-decoration: none;
 }
 
@@ -110,7 +110,7 @@ nav.primary ul li {
   flex: 1;
 }
 nav.primary ul li a:link {
-  background-color:rgba(0,0,0,.4);
+  background-color:rgba(216, 8, 8, 0.4);
   padding: 5px 7.5px;
   display:block;
   border: 1px solid #000;
@@ -123,7 +123,7 @@ nav.primary ul li a:hover{
 }
 
  #content h2{
- color:#3b638b; 
+ color:#068b2e; 
  border-bottom: 1px dotted #000;
 }
 
@@ -149,7 +149,7 @@ nav.primary ul li a:hover{
 }
 
 #blog .post{
-  box-shadow: 0 4px 8px rgba(0,0,0,.6);
+  box-shadow: 0 4px 8px rgba(138, 119, 119, 0.6);
   padding:10px;
   font-size:.8rem;
   flex:1;
@@ -165,24 +165,24 @@ nav.primary ul li a:hover{
 }
 
 #blog a{
-    color:#3B638B;
+    color:#5c6166;
 }
 
 #practice h2{
-  color: #3b638b;
+  color: #5c6166;
   border-bottom:1px dotted #cccccc;
 }
 
 #practice h3{
-  border-left:7.5px solid #3b638b;
+  border-left:7.5px solid #0fc3f0;
   padding:5px 0 5px 10px;
 }
 
 #practice a:link, #practice a:visited {
-  color: #3b638b;
+  color: #0fc3f0;
 }
 
-#practice {
+#2practice {
 line-height:1.6;
 }
 
@@ -196,7 +196,7 @@ line-height:1.6;
 
 
 aside[aria-label="Sidebar"]{
-  background-color: #172635;
+  background-color: #117de9;
   color:#ffffff;
   padding: 20px 0;
 }
@@ -223,25 +223,12 @@ aside .widget footer{
 }
 
 footer.primary{
-background-color: #3b638b;
-padding:5px;
-color:#ffffff;
-text-align:center;
-text-shadow:1px 1px #000000;  
+background-color: rgb(8, 8, 177)
+padding 5px;
+color:#ffffff
+text-align:center
+text-shadow:1.5px 1px #000000  
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
