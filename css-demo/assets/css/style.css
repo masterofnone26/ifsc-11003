@@ -233,8 +233,13 @@ text-align:center;
 text-shadow:1.5px 1px #000000;  
 }
 
-table.{
+table.classtr{
   color: #0fc3f0;
+}
+
+dl.primary.dd{
+background-color: #cccccc;
+text-shadow: #221d1d;
 }
 
 
