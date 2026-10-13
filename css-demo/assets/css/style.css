@@ -187,7 +187,8 @@ line-height:1.6;
 }
 
 .grocery li{
-  border-left: 2px solid darkolivegreen; 
+  background-color: #0fc3f0;
+  text-decoration-color: #117de9;
 } 
 
 
@@ -232,6 +233,9 @@ text-align:center;
 text-shadow:1.5px 1px #000000;  
 }
 
+table.{
+  color: #0fc3f0;
+}
 
 
 
