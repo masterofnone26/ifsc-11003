@@ -237,10 +237,18 @@ table.classtr{
   color: #0fc3f0;
 }
 
+
 dl.primary.dd{
 background-color: #cccccc;
 text-shadow: #221d1d;
 }
+
+#h3.element id="h3" class="header"{
+  background-color: #5d7c9b;
+  text-align: center;
+}
+
+
 
 
 
