@@ -186,11 +186,54 @@ nav.primary ul li a:hover{
 line-height:1.6;
 }
 
+#practice table {
+  border:1px solid #cccccc;
+  width:100%;
+}
+#practice caption{
+  font-weight: bold;
+
+
+}
+#practice th{
+
+}
+#practice tr{
+
+}
+
+#practice tr:nth-child(2n){
+  background-color: #117de9;
+}
+
+#practice td{
+border:1px solid #cccccc;
+padding: 5px;
+
+}
+
+#practice ol{
+  life-style-type:lower roman;
+
+}
+#practice blockquote{
+  border: 4px double #c0c0c0;
+  padding:20px 40px;
+  margin:40px 80px;
+  border-radius:30px 0;
+  background-color: #3b638b;
+  color:#fff;
+  text-shadow:1px 1px #000;
+}
+
+#practice blockquote cite{
+  display:block;
+}
+
 .grocery li{
   background-color: #0fc3f0;
   text-decoration-color: #117de9;
 } 
-
 
 
 
@@ -231,10 +274,6 @@ padding: 5px;
 color:#ffffff;
 text-align:center;
 text-shadow:1.5px 1px #000000;  
-}
-
-table.classtr{
-  color: #0fc3f0;
 }
 
 
