@@ -232,10 +232,14 @@ padding: 5px;
   life-style-type:lower roman;
 
 }#practice ul ul li:nth-child(2){
-    color:red;
+    color:rgb(46, 41, 41);
 }
 
-#practice dl{}
+#practice dl{
+  color: #0fc3f0;
+  
+}
+
 #practice dt{
   font-weight:bold;
 
